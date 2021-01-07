@@ -1,7 +1,7 @@
 # Data-Transfer
 Sending Data From Pi To Mobile Device project is a desktop application which is developed in IoT Raspberry Pi platform.
 
-#### To Run
+# To Run
 Here i used pushbullet to send text it can also used for sending images from raspberry pi to mobile
 
 ## step 1 install libraray 
